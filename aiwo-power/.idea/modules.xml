@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power.iml" filepath="$PROJECT_DIR$/aiwo-power.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power-app/aiwo-power-app.iml" filepath="$PROJECT_DIR$/aiwo-power-app/aiwo-power-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power-common/aiwo-power-common.iml" filepath="$PROJECT_DIR$/aiwo-power-common/aiwo-power-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power-dao/aiwo-power-dao.iml" filepath="$PROJECT_DIR$/aiwo-power-dao/aiwo-power-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power-service/aiwo-power-service.iml" filepath="$PROJECT_DIR$/aiwo-power-service/aiwo-power-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiwo-power-web/aiwo-power-web.iml" filepath="$PROJECT_DIR$/aiwo-power-web/aiwo-power-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,2 +1,7 @@
 server:
   port: 20000
+eureka:
+  client:
+    #是否向服务注册中心注册自己
+    register-with-eureka: false
+    fetch-registry: false
