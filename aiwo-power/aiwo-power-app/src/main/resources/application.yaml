@@ -2,10 +2,11 @@ server:
   port: 20000
 eureka:
   instance:
-    hostname: 127.0.0.1
+    hostname: localhost
   client:
     #是否向服务注册中心注册自己
     register-with-eureka: false
     fetch-registry: false
     service-url:
+          #此地址并非页面访问地址，页面访问eureka地址为 localhost:20000
           defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
