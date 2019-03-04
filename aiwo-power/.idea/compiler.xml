@@ -17,7 +17,6 @@
       <module name="aiwo-power" target="1.6" />
       <module name="aiwo-power-app" target="1.6" />
       <module name="aiwo-power-common" target="1.6" />
-      <module name="aiwo-power-config" target="1.6" />
       <module name="aiwo-power-dao" target="1.6" />
       <module name="aiwo-power-service" target="1.6" />
       <module name="aiwo-power-web" target="1.6" />
